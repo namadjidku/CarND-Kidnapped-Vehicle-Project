@@ -104,4 +104,7 @@ You can find the inputs to the particle filter in the `data` directory.
 2. y position
 3. landmark id
 
-## Performance: your particle filter should complete execution within the time of 100 seconds.
+## Performance:
+
+[image]: images/performance.jpg  "Performance"
+![alt text][image]
